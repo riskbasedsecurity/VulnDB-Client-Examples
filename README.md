@@ -29,6 +29,8 @@ https://github.com/jkouns/VulnDB-Client-Examples/tree/master/c%23
 
 ### Python ###
 
+This is an example of a client used to pull data from VulnDB for import into RSA's Archer.
+
 https://github.com/jkouns/VulnDB-Client-Examples/tree/master/python
 
 ### PHP5 ###
