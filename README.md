@@ -19,17 +19,17 @@ They are meant to help Risk Based Security customers with their usage of VulnDB.
 
 The ruby example is a basic connector example doing one job only, checking for CVE ids.
 
-https://github.com/jkouns/VulnDB-Client-Examples/ruby
+https://github.com/jkouns/VulnDB-Client-Examples/tree/master/ruby
 
 ### C# ###
 
 The C# client is a basic client connector and product checker. 
 
-https://github.com/jkouns/VulnDB-Client-Examples/c#
+https://github.com/jkouns/VulnDB-Client-Examples/tree/master/c#
 
 ### Python ###
 
-https://github.com/jkouns/VulnDB-Client-Examples/python
+https://github.com/jkouns/VulnDB-Client-Examples/tree/master/python
 
 ### PHP5 ###
 
