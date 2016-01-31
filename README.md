@@ -25,7 +25,7 @@ https://github.com/jkouns/VulnDB-Client-Examples/tree/master/ruby
 
 The C# client is a basic client connector and product checker. 
 
-https://github.com/jkouns/VulnDB-Client-Examples/tree/master/c#
+https://github.com/jkouns/VulnDB-Client-Examples/tree/master/c%23
 
 ### Python ###
 
