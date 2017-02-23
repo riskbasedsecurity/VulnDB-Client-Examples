@@ -37,7 +37,7 @@ https://github.com/jkouns/VulnDB-Client-Examples/tree/master/python
 
 The php5 system is a complete api wrapper, see repo page for more information.
 
-https://github.com/jkouns/VulnDB_PHP_API
+https://github.com/riskbasedsecurity/VulnDB-Client-Examples/tree/master/php
 
 
 
